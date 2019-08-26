@@ -1,6 +1,6 @@
 {
   "name": "number-to-alphabet",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Simple library to convert a number to sequence of letters and vice versa.",
   "main": "dist/number-to-alphabet.js",
   "types": "dist/number-to-alphabet.d.ts",
