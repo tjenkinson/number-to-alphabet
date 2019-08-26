@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/number-to-alphabet.svg)](https://badge.fury.io/js/number-to-alphabet)
+
 # Number-To-Alphabet
 Convert a number to a string and vice versa, using the provided alphabet (or default of a-z).
 
