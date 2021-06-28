@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/tjenkinson/number-to-alphabet#readme",
   "devDependencies": {
-    "husky": "^4.2.3",
+    "husky": "^6.0.0",
     "parcel-bundler": "^1.12.3",
     "prettier": "^2.1.1",
     "typescript": "^4.0.2"
